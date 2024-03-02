@@ -49,8 +49,5 @@ public class CursosModel {
         return cargaHoraria;
     }
 
-    public void setCargaHoraria(Integer cargaHoraria) {
-        this.cargaHoraria = cargaHoraria;
-    }
 
 }
